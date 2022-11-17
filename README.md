@@ -16,10 +16,10 @@ This project has the next libraryes:
 
 # Images
 
-<img src="ImageApp/Captura de pantalla 2022-11-17 175201.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="ImageApp/Captura de pantalla 2022-11-17 175209.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="ImageApp/Captura de pantalla 2022-11-17 175215.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="ImageApp/Captura de pantalla 2022-11-17 175223.png" alt="drawing" width="310"/> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="ImageApp/Captura de pantalla 2022-11-17 175201.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="ImageApp/Captura de pantalla 2022-11-17 175209.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="ImageApp/Captura de pantalla 2022-11-17 175215.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="ImageApp/Captura de pantalla 2022-11-17 175223.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp; 
 
   
 # Notes
