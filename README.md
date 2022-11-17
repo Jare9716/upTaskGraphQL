@@ -2,8 +2,8 @@
 
 **THIS IS THE BACKEND OF ***upTaskNative*** PROJECT**
 
-Here you can find the SetUp of the server for the maintenance of the react native App upTaskNative. 
-This server was started using apollo studio, and mongoDB server.
+Here you can find the SetUp of the DataBase for the maintenance of the react native App upTaskNative. 
+This DataBase was started using apollo studio, and mongoDB.
 
 # Libraries
 
@@ -24,8 +24,10 @@ This project has the next libraryes:
   
 # Notes
 
-Inside the "variables.env" the variable DB_MONGO must be changed for your mongoDB link server. 
+* Inside the "variables.env" the variable DB_MONGO must be changed for your mongoDB link DataBase. 
+* Don't forget to use `run dev` to start the DataBase server.
+
 
 
 # Youtube Video
-https://youtu.be/GP80lAe_Xs0
+<https://youtu.be/GP80lAe_Xs0>
