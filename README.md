@@ -14,6 +14,8 @@ This project has the next libraryes:
 3. jsonwebtoken
 4. mongoose
 
+***Don't forget to install all the libraries to run the project***
+
 # Images
 
 <img src="ImageApp/Captura de pantalla 2022-11-17 175201.png" alt="drawing" width="1000"/> &nbsp;&nbsp;&nbsp;&nbsp;
